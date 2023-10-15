@@ -5,7 +5,9 @@
 <br>
 - 🌱 I’m currently enrolled in a Full Stack Software Engineering program at [ALX] (https://www.alxafrica.com)
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yssrexe&label=Profile%20views&color=0e75b6&style=flat" alt="yssrexe" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yssrexe" alt="yssrexe" /></a> </p>
 
