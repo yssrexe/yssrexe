@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yassir</h1>
+<h1 align="center">Hi 👋, I'm Yassir Elyasini</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 <br>
 - 🔭 I’m passionate about programming, interested in Back-End development
