@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yassir</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
+<br>
 - 🔭 I’m passionate about programming, interested in Back-End development
+<br>
 - 🌱 I’m currently enrolled in a Full Stack Software Engineering program at [*ALX*](https://www.alxafrica.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yssrexe&label=Profile%20views&color=0e75b6&style=flat" alt="yssrexe" /> </p>
