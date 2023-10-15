@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yassir</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-- 👋 Hi, I’m Yassir Elyasini
-- 👀 I’m interested in backend and some aspects of frontend 
-- 🌱 I’m currently working on my biggest project as a learning experience  
+* 👋 Hi, I’m Yassir Elyasini
+* 👀 I’m interested in backend and some aspects of frontend 
+* 🌱 I’m currently working on my biggest project as a learning experience  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yssrexe&label=Profile%20views&color=0e75b6&style=flat" alt="yssrexe" /> </p>
 
