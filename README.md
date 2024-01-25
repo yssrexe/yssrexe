@@ -3,7 +3,7 @@
 <br>
 - 🔭 I’m passionate about programming, interested in Back-End development
 <br>
-- 🌱 I’m currently enrolled in a Full Stack Software Engineering program at [ALX] (https://www.alxafrica.com)
+- 🌱 I’m currently enrolled in a Full Stack Software Engineering program at [ALX](https://www.alxafrica.com)
 
 
 
