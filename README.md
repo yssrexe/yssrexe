@@ -11,5 +11,5 @@
 <br>
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yssrexe&" alt="yssrexe" /></p>
+<p><img style="display:flex" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yssrexe&" alt="yssrexe" /></p>
 
