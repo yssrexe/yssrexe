@@ -5,3 +5,11 @@
 <br>
 - 🌱 I’m currently enrolled in a Full Stack Software Engineering program at <a href="https://www.alxafrica.com">ALX</a>
 
+
+
+
+<br>
+<hr>
+
+<p><img style="display:flex" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yssrexe&" alt="yssrexe" /></p>
+
