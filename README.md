@@ -7,10 +7,6 @@
 
 
 <br>
-
-(https://1337-readme-xi.vercel.app/api/profile?cursus=piscine-c-decloisonnee&dark=true&email=hide&login=yael-yas)](https://github.com/mohouyizme/1337-readme)
-
-<br>
 <hr>
 
 <p><img style="display:flex" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yssrexe&" alt="yssrexe" /></p>
