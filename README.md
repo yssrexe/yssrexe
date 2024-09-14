@@ -8,7 +8,7 @@
 
 <br>
 
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=piscine-c-decloisonnee&dark=true&email=hide&login=yael-yas)](https://github.com/mohouyizme/1337-readme)
+(https://1337-readme-xi.vercel.app/api/profile?cursus=piscine-c-decloisonnee&dark=true&email=hide&login=yael-yas)](https://github.com/mohouyizme/1337-readme)
 
 <br>
 <hr>
