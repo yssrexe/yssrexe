@@ -6,7 +6,9 @@
 - 🌱 I’m currently enrolled in a Full Stack Software Engineering program at <a href="https://www.1337.ma">1337 Coding School</a>
 
 
+<br>
 
+[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=piscine-c-decloisonnee&dark=true&email=hide&login=yael-yas)](https://github.com/mohouyizme/1337-readme)
 
 <br>
 <hr>
