@@ -148,27 +148,6 @@ Comprehensive C++ curriculum from fundamentals to advanced OOP concepts followin
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yssrexe&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yssrexe&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 
----
-
-## 🎓 42/1337 Journey
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🎯 42 Cursus Progress                                      │
-├─────────────────────────────────────────────────────────────┤
-│  ✅ Libft          │ ✅ Born2beroot   │ ✅ ft_printf       │
-│  ✅ get_next_line  │ ✅ Fract-ol      │ ✅ Philosophers    │
-│  ✅ Cub3D          │ 🔄 CPP Modules   │ 📋 NetPractice     │
-└─────────────────────────────────────────────────────────────┘
-```
-
-**School:** 1337 Coding School (42 Network)  
-**Location:** Marrakech, Morocco  
-**Philosophy:** Peer-to-peer learning, project-based education
-
-</div>
 
 ---
 
@@ -184,15 +163,6 @@ Comprehensive C++ curriculum from fundamentals to advanced OOP concepts followin
 
 </div>
 
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
